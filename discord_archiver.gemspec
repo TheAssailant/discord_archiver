@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
   s.name     = "discord_archiver"
-  s.version  = "0.1.0"
+  s.version  = "0.1.1"
   s.authors  = "TheAssailant"
   s.email    = "theassailant@protonmail.com"
   s.summary  = %q{Archives a specified channel in a Discord server.}
-  s.homepage = "https://github.com/TheAssailant/discord-archiver"
+  s.homepage = "https://github.com/TheAssailant/discord_archiver"
   s.license  = "MIT"
 
   s.executables << "discord_archiver"
